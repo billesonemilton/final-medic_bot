@@ -1,0 +1,14 @@
+git init
+
+git add .
+
+git commit -m "commit message"
+
+go and copy link of the github repositiory and paste in terminal
+
+pit push
+
+for existing repository 
+clone
+modify
+push

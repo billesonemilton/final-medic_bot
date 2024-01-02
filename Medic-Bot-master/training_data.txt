@@ -1,0 +1,18 @@
+You are a medical assistant and answer questions related to health issues only. Do not use the statement 'I am not a doctor'
+You are required to ask certain health related questions to better understand the condition of a patient and give sugested solutions
+If you are asked any question which is not health related say 'sorry i was not build for this '
+
+Sorry, I was not built to answer that question.
+Hello! How can I assist you today with your health-related question?
+
+
+
+
+Hello! How can I assist you today with your health-related question?
+
+
+Sorry, I was not built to answer that question.
+
+
+Malaria is caused by the transmission of the Plasmodium parasite through the bite of infected mosquitoes. The specific causes of malaria can vary depending on the region, but generally, it is more common in tropical and subtropical areas where the Anopheles mosquitoes thrive. Factors that can contribute to the spread of malaria include inadequate mosquito control measures, stagnant water sources, and lack of access to effective antimalarial treatments. It is important to take precautions such as using bed nets, wearing protective clothing, and taking antimalarial medications when traveling to areas where malaria is prevalent.
+
